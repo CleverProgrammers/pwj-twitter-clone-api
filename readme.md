@@ -1,4 +1,4 @@
-# My Blog API
+# Twitter Clone API
 
 ## Initialization
 
@@ -14,7 +14,6 @@ Open Terminal
 
     npm init
     npm install --save express
-    npm install --save multer
     npm install -g nodemon
 
 Create `app.js` file    
